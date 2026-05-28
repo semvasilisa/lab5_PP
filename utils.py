@@ -21,3 +21,4 @@ def multiply(a: int, b: int) -> int:
 def divide(a: int, b: int) -> float:
     """Return division of a by b."""
     return a / b
+
